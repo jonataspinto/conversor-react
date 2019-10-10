@@ -1,1 +1,1 @@
-![get adress example](./assets/image/screenshot.png)
+![get adress example](src/assets/image/screenshot.png)
